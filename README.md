@@ -22,4 +22,6 @@
 
 8.[前端运维部署那些事](https://juejin.im/post/5e88904bf265da47f517837c)
 
+9.[前端路由那些事](https://juejin.im/post/5e917e58e51d4546db4378c0)
+
 未完待续...
