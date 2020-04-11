@@ -18,4 +18,8 @@
 
 6.[前端缓存那些事](https://juejin.im/post/5e7ef4a9e51d4546f8784b21)
 
+7.[微前端那些事](https://juejin.im/post/5e83f8ad6fb9a03c5e0ccccc)
+
+8.[前端运维部署那些事](https://juejin.im/post/5e88904bf265da47f517837c)
+
 未完待续...
