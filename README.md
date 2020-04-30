@@ -26,8 +26,10 @@
 
 10.[从0到1开发工具库](https://juejin.im/post/5e958d0f6fb9a03c6675cb5d)
 
-11.[前端工程化那些事](https://juejin.im/post/5e999cecf265da47cd357a24)
+11.[从0到1开发简单脚手架](https://juejin.im/post/5ea1263d6fb9a03c73799a25)
 
-12.[从0到1开发简单脚手架](https://juejin.im/post/5ea1263d6fb9a03c73799a25)
+12.[前端工程化那些事](https://juejin.im/post/5e999cecf265da47cd357a24)
+
+13.[前端表单数据那些事](https://juejin.im/post/5eaa2cb3f265da7ba0581c84)
 
 未完待续...
