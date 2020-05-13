@@ -32,8 +32,8 @@
 
 13.[前端表单数据那些事](https://juejin.im/post/5eaa2cb3f265da7ba0581c84)
 
-14.[数据类型转换看这篇就够了])(https://juejin.im/post/5eb2bef2f265da7b9a6f0e7e)
+14.[数据类型转换看这篇就够了](https://juejin.im/post/5eb2bef2f265da7b9a6f0e7e)
 
-15.[如何更好管理 Api 接口])(https://juejin.im/post/5eba0684e51d454da077bcc1)
+15.[如何更好管理 Api 接口](https://juejin.im/post/5eba0684e51d454da077bcc1)
 
 未完待续...
